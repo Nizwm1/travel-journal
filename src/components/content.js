@@ -6,9 +6,15 @@ export default function Content(props) {
       <img className="content-img" src={props.imageUrl} alt="" />
       <div className="content-one">
         <div className="content-two">
-          <img src="" alt="" />
+          <img
+            className="location-logo"
+            src={process.env.PUBLIC_URL + "/images/location.png"}
+            alt=""
+          />
           <p>{props.location}</p>
-          <a href={props.googleMapsUrl}>View on Google Maps</a>
+          <a className="location-url" href={props.googleMapsUrl}>
+            View on Google Maps
+          </a>
         </div>
         <h4>{props.title}</h4>
         <p>
