@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/travel-journal/static/css/main.01c98308.css",
-    "main.js": "/travel-journal/static/js/main.c04b2bc5.js",
-    "index.html": "/travel-journal/index.html",
-    "main.01c98308.css.map": "/travel-journal/static/css/main.01c98308.css.map",
-    "main.c04b2bc5.js.map": "/travel-journal/static/js/main.c04b2bc5.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.01c98308.css",
-    "static/js/main.c04b2bc5.js"
-  ]
+  "main.css": "/travel-journal/static/css/main.da99d7d9.chunk.css",
+  "main.js": "/travel-journal/static/js/main.705d7c6a.chunk.js",
+  "main.js.map": "/travel-journal/static/js/main.705d7c6a.chunk.js.map",
+  "static/js/1.d81810a4.chunk.js": "/travel-journal/static/js/1.d81810a4.chunk.js",
+  "static/js/1.d81810a4.chunk.js.map": "/travel-journal/static/js/1.d81810a4.chunk.js.map",
+  "runtime~main.js": "/travel-journal/static/js/runtime~main.6b67c87f.js",
+  "runtime~main.js.map": "/travel-journal/static/js/runtime~main.6b67c87f.js.map",
+  "static/css/main.da99d7d9.chunk.css.map": "/travel-journal/static/css/main.da99d7d9.chunk.css.map",
+  "index.html": "/travel-journal/index.html",
+  "precache-manifest.c5e6d9f25af0700ed00266c7fc04c39f.js": "/travel-journal/precache-manifest.c5e6d9f25af0700ed00266c7fc04c39f.js",
+  "service-worker.js": "/travel-journal/service-worker.js"
 }
